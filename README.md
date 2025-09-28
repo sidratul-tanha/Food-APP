@@ -4,7 +4,7 @@ A simple web app that fetches meals from [TheMealDB API](https://www.themealdb.c
 
 ## 📝 Demo
 
-[Live Demo](https://sidratul-tanha.github.io/Food-Fetch/)
+[Live Demo](https://sidratul-tanha.github.io/Food-APP/)
 
 ---
 
@@ -32,3 +32,4 @@ A simple web app that fetches meals from [TheMealDB API](https://www.themealdb.c
 1. Clone the repository:  
    ```bash
    git clone https://github.com/sidratul-tanha/Food-Fetch.git
+
